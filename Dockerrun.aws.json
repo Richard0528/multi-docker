@@ -27,7 +27,7 @@
 			"image": "ryang0528/multi-nginx",
 			"hostname": "nginx",
 			"essential": true,
-			"portMappins": [
+			"portMappings": [
 				{
 					"hostPort": 80,
 					"containerPort": 80
